@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-gravity-ui-icons/compare/1.1.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-gravity-ui-icons/compare/1.2.0...HEAD)
+
+## [1.2.0](https://github.com/codeat3/blade-gravity-ui-icons/compare/1.1.0...1.2.0) - 2024-10-16
+
+### What's Changed
+
+* chore: update icons with the latest commit [ec96d3c](https://github.com/gravity-ui/icons/commit/ec96d3cec66c8088a3ed0ecb2a56f074dbc79ff3) by @github-actions in https://github.com/codeat3/blade-gravity-ui-icons/pull/3
+
+**Full Changelog**: https://github.com/codeat3/blade-gravity-ui-icons/compare/1.1.0...1.2.0
 
 ## [1.1.0](https://github.com/codeat3/blade-gravity-ui-icons/compare/1.0.0...1.1.0) - 2024-06-17
 
